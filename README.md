@@ -1,2 +1,1 @@
-# Projects
-Real time projects
+Three-tier architecture is a well-established software application architecture that organizes applications into three logical and physical computing tiers: the presentation tier, or user interface, the application tier, where data is processed, and the data tier, where application data is stored and managed.
